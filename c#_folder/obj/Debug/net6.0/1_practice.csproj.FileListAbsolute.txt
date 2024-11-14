@@ -1,0 +1,15 @@
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\bin\Debug\net6.0\1_practice.exe
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\bin\Debug\net6.0\1_practice.deps.json
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\bin\Debug\net6.0\1_practice.runtimeconfig.json
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\bin\Debug\net6.0\1_practice.dll
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\bin\Debug\net6.0\1_practice.pdb
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.csproj.AssemblyReference.cache
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.AssemblyInfoInputs.cache
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.AssemblyInfo.cs
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.csproj.CoreCompileInputs.cache
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.dll
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\refint\1_practice.dll
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.pdb
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\1_practice.genruntimeconfig.cache
+C:\Users\valer\C# Projects\SecurityProjects\1_practice\obj\Debug\net6.0\ref\1_practice.dll
